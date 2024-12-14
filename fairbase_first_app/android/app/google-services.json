@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67928321527",
+    "project_id": "fir-example-50348",
+    "storage_bucket": "fir-example-50348.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67928321527:android:2dca4d8ebe1bb34ce992f2",
+        "android_client_info": {
+          "package_name": "com.example.farebase.first.app.fairbase_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCngiLYOCQx0Mnr3AF6xv3XpeNKfwG43AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

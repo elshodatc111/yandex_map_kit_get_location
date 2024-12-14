@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050376743602",
+    "project_id": "watersgo",
+    "storage_bucket": "watersgo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050376743602:android:6c611cdf9b43342170f7ab",
+        "android_client_info": {
+          "package_name": "uz.watergo.waters_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpRKN3KOx-noeode_3KwxL2h2jbg_FhG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
